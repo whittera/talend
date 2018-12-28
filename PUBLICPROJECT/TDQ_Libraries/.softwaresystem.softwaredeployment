@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<softwaredeployment:TdSoftwareSystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:softwaredeployment="http://www.talend.org/cwm/foundation/softwaredeployment/2010" xmi:id="_Guf4YAqMEemaicmGqIW01g" name="MySQL" subtype="MySQL" version="5.5.60-MariaDB"/>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:softwaredeployment="http://www.talend.org/cwm/foundation/softwaredeployment/2010">
+  <softwaredeployment:TdSoftwareSystem xmi:id="_Guf4YAqMEemaicmGqIW01g" name="MySQL" subtype="MySQL" version="5.5.60-MariaDB"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_HSf9UAqMEemaicmGqIW01g" name="Apache Hive" subtype="Apache Hive" version="1.2.1000.2.6.5.0-292"/>
+</xmi:XMI>
