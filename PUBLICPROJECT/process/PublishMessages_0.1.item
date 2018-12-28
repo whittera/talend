@@ -118,7 +118,7 @@
     <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="false"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="" show="false"/>
     <elementParameter field="CLOSED_LIST" name="KAFKA_VERSION" value="KAFKA_0_10_0_1"/>
-    <elementParameter field="TEXT" name="ZOOKEEPER_CONNECT" value="&quot;hwx26s1:2181,hwx26s2:2181,hwx26s3:2181&quot;"/>
+    <elementParameter field="TEXT" name="ZOOKEEPER_CONNECT" value="&quot;hwx26m1:2181,hwx26m2:2181,hwx26s1:2181&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TOPICACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="TEXT" name="KAFKA_TOPIC" value="&quot;mytopic&quot;"/>
     <elementParameter field="TEXT" name="KAFKA_REPLICATION" value="1"/>
