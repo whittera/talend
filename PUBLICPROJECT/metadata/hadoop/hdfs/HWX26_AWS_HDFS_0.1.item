@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TalendHDFS:HDFSConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHDFS="http://www.talend.org/hdfs" xmi:id="_8YupUAqJEemaicmGqIW01g" relativeHadoopClusterId="_tzNxcAqJEemaicmGqIW01g" userName="talend" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
+<TalendHDFS:HDFSConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHDFS="http://www.talend.org/hdfs" xmi:id="_8YupUAqJEemaicmGqIW01g" name="HWX26_AWS_HDFS" label="HWX26_AWS_HDFS" relativeHadoopClusterId="_tzNxcAqJEemaicmGqIW01g" userName="talend" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
