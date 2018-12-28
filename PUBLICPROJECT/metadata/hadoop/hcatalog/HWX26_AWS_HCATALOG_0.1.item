@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendHCatalog:HCatalogConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHCatalog="http://www.talend.org/hcatalog" xmi:id="_8YsNEAqJEemaicmGqIW01g" name="HWX26_AWS_HCATALOG" label="HWX26_AWS_HCATALOG" relativeHadoopClusterId="_tzNxcAqJEemaicmGqIW01g" hostName="hwx26m2.hdp.com" userName="talend" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
