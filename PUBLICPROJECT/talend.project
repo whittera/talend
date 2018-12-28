@@ -301,7 +301,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_qaJkRgqJEemaicmGqIW01g">
       <baseItem xmi:id="_qaJkRwqJEemaicmGqIW01g" id="_ktKe0DUKEeWUJYvK4rkWlQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_qaJkSAqJEemaicmGqIW01g" id="_HVx70DUPEeWUJYvK4rkWlQ" version="Latest" type="property"/>
       <relatedItems xmi:id="_qaJkSQqJEemaicmGqIW01g" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_qaJkSgqJEemaicmGqIW01g" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_qaJkSwqJEemaicmGqIW01g" id="TalendString" version="Latest" type="routine"/>
